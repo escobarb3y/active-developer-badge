@@ -65,3 +65,8 @@ If you were able to successfully get the badge from this, star this repository s
 ### No, it's not "patched"
 I've seen a lot of people say that this method has been patched or something. It's not. It still works (people are still getting the badge from it), if you're unable to get the badge after 24 hours of waiting, you probably didn't follow the instructions correctly.
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=escobarb3y/active-developer-badge&label=Ziyaretçi%20Sayısı&color=da004e" alt="escobarb3y" />
+
+</div>
+
